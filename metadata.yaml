@@ -1,0 +1,60 @@
+_repo: Cranford_394
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brock, C. E. (Charles Edmund)
+    aliases:
+    - Brock, Charles Edmund
+    - Brock, Charles E. (Charles Edmund)
+    birthdate: 1870
+    deathdate: 1938
+    gutenberg_agent_id: '26815'
+    url: http://www.gutenberg.org/2009/agents/26815
+creator:
+  author:
+    agent_name: Gaskell, Elizabeth Cleghorn
+    aliases:
+    - Gaskell, Mrs.
+    - Gaskell, E. C. (Elizabeth Cleghorn)
+    - Gaskell, Elizabeth Cleghorn Stevenson
+    - Stevenson, Elizabeth
+    - Mills, Cotton Mather
+    birthdate: 1810
+    deathdate: 1865
+    gutenberg_agent_id: '220'
+    url: http://www.gutenberg.org/2009/agents/220
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_Gaskell
+description: "Cranford is one of the better-known novels of the 19th-century English\
+  \ writer Elizabeth Gaskell. It was first published, irregularly, in eight instalments,\
+  \ between December 1851 and May 1853, in the magazine Household Words, which was\
+  \ edited by Charles Dickens. It was then published, with minor revision, in book\
+  \ form in 1853.\nIn the years following Elizabeth Gaskell's death the novel became\
+  \ immensely popular.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '1996-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '394'
+  wikidata: Q265100
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'England -- Fiction'
+- !lcsh 'Pastoral fiction'
+- !lcsh 'Sisters -- Fiction'
+- !lcsh 'Villages -- Fiction'
+- !lcsh 'Female friendship -- Fiction'
+- !lcc 'PR'
+- !lcsh 'Older women -- Fiction'
+- GITenberg
+title: Cranford
+url: http://www.gutenberg.org/ebooks/394
+wikipedia:
+- https://fr.wikipedia.org/wiki/Cranford
+- https://cs.wikipedia.org/wiki/Cranford
+- https://fa.wikipedia.org/wiki/%DA%A9%D8%B1%D8%A7%D9%86%D9%81%D9%88%D8%B1%D8%AF_(%D8%B1%D9%85%D8%A7%D9%86)
+- https://pl.wikipedia.org/wiki/Cranford_(powie%C5%9B%C4%87)
+- https://en.wikipedia.org/wiki/Cranford_(novel)
+- https://it.wikipedia.org/wiki/Cranford
+- https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D1%8D%D0%BD%D1%84%D0%BE%D1%80%D0%B4
