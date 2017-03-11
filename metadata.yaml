@@ -1,5 +1,5 @@
 _repo: Cranford_394
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Brock, C. E. (Charles Edmund)
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1938
     gutenberg_agent_id: '26815'
     url: http://www.gutenberg.org/2009/agents/26815
+covers:
+- cover_type: archival
+  image_path: 394-h/images/coverb.jpg
 creator:
   author:
     agent_name: Gaskell, Elizabeth Cleghorn
@@ -30,6 +33,8 @@ description: "Cranford is one of the better-known novels of the 19th-century Eng
   \ edited by Charles Dickens. It was then published, with minor revision, in book\
   \ form in 1853.\nIn the years following Elizabeth Gaskell's death the novel became\
   \ immensely popular.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/394#Cranford
 gutenberg_issued: '1996-01-01'
 gutenberg_type: Text
 identifiers:
